@@ -1,24 +1,25 @@
 # To-Do-List
 
-A lightweight command-line Python application for managing daily tasks with automatic local persistence.
+A command-line Python application for managing daily tasks with automatic local persistence.
 
 ## Overview
 
-`To-Do-List` helps users organize tasks directly from the terminal without external dependencies. Tasks can be added, viewed, and removed while keeping stored data intact across sessions.
+`To-Do-List` provides a straightforward terminal workflow to create, review, and remove tasks without requiring third-party libraries. Task data is persisted locally so items remain available across sessions.
 
-## Features
+## Key Features
 
-- **Add Tasks:** Append new to-do items quickly from the command line.
-- **View Tasks:** Display stored tasks in a clear, readable list.
-- **Delete Tasks:** Remove completed or unwanted entries.
-- **Local Persistence:** Automatically saves tasks so progress is retained between runs.
+- **Add Tasks:** Create new tasks directly from the command line.
+- **List Tasks:** View existing tasks in a clean, structured format.
+- **Remove Tasks:** Delete completed or obsolete items.
+- **Persistent Storage:** Automatically saves task state locally between runs.
 
 ## Prerequisites
 
-- **Python 3.x** installed on your system
+- **Python 3.x** installed and accessible from your terminal.
 
-## Installation & Usage
+## Getting Started
 
 1. Clone the repository:
+
    ```bash
    git clone [https://github.com/JoswinThomas/To-Do-List.git](https://github.com/JoswinThomas/To-Do-List.git)
